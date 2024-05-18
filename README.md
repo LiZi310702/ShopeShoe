@@ -23,8 +23,8 @@ ShopeShoe is an e-commerce application designed for the sale of footwear. It off
   
 2. Install dependencies:
    ```bash
-  cd ShopeShoe
-  npm install
+     cd ShopeShoe
+     npm install
   
   Configure the environment variables as needed.
 
