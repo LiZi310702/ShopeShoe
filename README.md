@@ -20,33 +20,27 @@ ShopeShoe is an e-commerce application designed for the sale of footwear. It off
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ShopeShoe.git
-  Install dependencies:
-
+  
 2. Install dependencies:
   cd ShopeShoe
   npm install
   Configure the environment variables as needed.
 
 ### Usage**
-Start the backend server:
+1. Start the backend server:
+   npm run start:server
 
-bash
-Sao chép mã
-npm run start:server
-Start the front-end application:
+2. Start the front-end application:
+   npm run start:client
+3. Access the application in your web browser at http://localhost:3000.
 
-bash
-Sao chép mã
-npm run start:client
-Access the application in your web browser at http://localhost:3000.
-
-Contributing
+**Contributing**
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-License
+**License**
 This project is licensed under the MIT License.
 
-Make sure to replace placeholders like `yourusername` with appropriate values and update any additional sections or details as needed.
+   Make sure to replace placeholders like `yourusername` with appropriate values and update any additional sections or details as needed.
 
 
 
